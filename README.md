@@ -15,4 +15,4 @@ A simple responsive React app with:
 2. Run `npm install`  
 3. Run `npm start`  
 
-Open in browser at `http://localhost:3000`  
+Open in browser at `http://localhost:5173`  
